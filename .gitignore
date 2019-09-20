@@ -1,3 +1,12 @@
+# pickle file
+*.pkl
+
+# numpy file 
+*.npy
+
+# pandas saving csv file 
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
